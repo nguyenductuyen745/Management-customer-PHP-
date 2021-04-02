@@ -38,10 +38,10 @@
 <body>
     <section class="options">
         <h3 style="color: #999; font-size: 26px">Chọn Chức Năng</h3>
-        <a href="./Nhap.php" target="_blank" class="btn">Nhap Du Lieu</a>
-        <a href="./HienThi.php" target="_blank" class="btn">Hien Thi Kh</a>
-        <a href="./Sua.php" target="_blank" class="btn">Sua Kh</a>
-        <a href="./Xoa.php" target="_blank" class="btn">Xoa Kh</a>
+        <a href="./Functionals/Nhap.php" target="_blank" class="btn">Nhap Du Lieu</a>
+        <a href="./Functionals/HienThi.php" target="_blank" class="btn">Hien Thi Kh</a>
+        <a href="./Functionals/Sua.php" target="_blank" class="btn">Sua Kh</a>
+        <a href="./Functionals/Xoa.php" target="_blank" class="btn">Xoa Kh</a>
     </section>
 </body>
 </html>
